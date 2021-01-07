@@ -33,7 +33,7 @@ Students should read the associated textbook section/chapters before class.
 All readings refer to corresponding sections in [Dive into Deep Learning](http://d2l.ai).
 
 | Date | Subject | Reading |
-|----|----|
+|----|----|----|
 | Wed, 1/20 | Class introduction, background, linear regression | §3.1-3.3 |
 | Mon, 1/25 | Logistic regression | §3.4-3.7 |
 | Wed, 1/27 | Multilayer perceptrons | §4.1-4.3 |
