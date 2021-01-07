@@ -47,7 +47,7 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
 | Wed, 2/24 | Recurrent neural networks 1 | §8.4-8.7 |
 | Mon, 3/1 | Recurrent neural networks 2 | §9.1-9.4 |
 | Wed, 3/3 | Sequence-to-sequence learning | §9.5-9.8 |
-| Mon, 3/8 | Midterm |  |
+| Mon, 3/8 | Midterm | — |
 | Wed, 3/10 | Attention 1 | §10.1-10.4 |
 | Mon, 3/15 | Attention 2 | §10.5-10.7 |
 | Wed, 3/17 | Gradient descent | §11.1-11.5 |
@@ -58,14 +58,14 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
 | Mon, 3/29 | Transfer learning for NLP | §14.8-14.10, 15.6-15.7 |
 | Wed, 3/31 | Generative adversarial networks | §13.10, 17.1-2 |
 | Mon, 4/5 | Wellness day, no class | — |
-| Wed, 4/7 | Autoencoders & variational autoencoders |  |
-| Mon, 4/19 | Deep autoregressive models |  |
-| Wed, 4/21 | Semi-supervised and self-supervised learning |  |
+| Wed, 4/7 | Autoencoders & variational autoencoders | — |
+| Mon, 4/19 | Deep autoregressive models | — |
+| Wed, 4/21 | Semi-supervised and self-supervised learning | — |
 | Mon, 4/26 | Distribution shift; fairness, accountability, and transparency | §4.9 |
-| Wed, 4/28 | Overflow day/special topics |  |
-| Mon, 5/3 | Overflow day/special topics |  |
-| Wed, 5/5 | Overflow day/special topics |  |
-| Final exam slot | Final project presentations |
+| Wed, 4/28 | Overflow day/special topics | — |
+| Mon, 5/3 | Overflow day/special topics | — |
+| Wed, 5/5 | Overflow day/special topics | — |
+| Final exam slot | Final exam | — |
 
 ## Grading
 
