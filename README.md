@@ -6,7 +6,7 @@ Term: Spring 2021
 
 Meeting time: Mondays and Wednesdays, 12:30-1:45pm
 
-Office hours: TBD
+Office hours: Thursdays, 12:00-2:00pm
 
 Deep learning is the branch of machine learning focused on training neural networks.
 Neural networks have proven to be powerful across a wide range of domains and tasks, including computer vision, natural language processing, speech recognition, and beyond.
