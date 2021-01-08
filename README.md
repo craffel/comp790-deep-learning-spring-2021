@@ -32,51 +32,50 @@ Note that since this is the first time this class is being taught, we may deviat
 Students should read the associated textbook section/chapters before class.
 All readings refer to corresponding sections in [Dive into Deep Learning](http://d2l.ai).
 
-| Date | Subject | Reading |
-|----|----|----|
-| Wed, 1/20 | Class introduction, background, linear regression | §3.1-3.3 |
-| Mon, 1/25 | Logistic regression | §3.4-3.7 |
-| Wed, 1/27 | Multilayer perceptrons | §4.1-4.3 |
-| Mon, 2/1 | Under/overfitting, regularization | §4.4-4.6 |
-| Wed, 2/3 | Backpropagation, numerical stability | §4.7-4.8 |
-| Mon, 2/8 | Convolutional neural networks 1 | §6.1-6.3 |
-| Wed, 2/10 | Convolutional neural networks 2 | §6.4-6.6 |
-| Mon, 2/15 | Wellness day, no class | — |
-| Wed, 2/17 | Batch normalization & residual connections | §7.5-7.6 |
-| Mon, 2/22 | Sequence models and language | §8.1-8.3 |
-| Wed, 2/24 | Recurrent neural networks 1 | §8.4-8.7 |
-| Mon, 3/1 | Recurrent neural networks 2 | §9.1-9.4 |
-| Wed, 3/3 | Sequence-to-sequence learning | §9.5-9.8 |
-| Mon, 3/8 | Midterm | — |
-| Wed, 3/10 | Attention 1 | §10.1-10.4 |
-| Mon, 3/15 | Attention 2 | §10.5-10.7 |
-| Wed, 3/17 | Gradient descent | §11.1-11.5 |
-| Mon, 3/22 | Adaptive gradient methods | §11.6-11.11 |
-| Wed, 3/24 | Multi-accelerator training | §12.5-12.7 |
-| Mon, 3/29 | Data augmentation and transfer learning for CV | §13.1-13.2 |
-| Wed, 3/31 | Word vectors | §14.1-14.7 |
-| Mon, 3/29 | Transfer learning for NLP | §14.8-14.10, 15.6-15.7 |
-| Wed, 3/31 | Generative adversarial networks | §13.10, 17.1-2 |
-| Mon, 4/5 | Wellness day, no class | — |
-| Wed, 4/7 | Autoencoders & variational autoencoders | — |
-| Mon, 4/19 | Deep autoregressive models | — |
-| Wed, 4/21 | Semi-supervised and self-supervised learning | — |
-| Mon, 4/26 | Distribution shift; fairness, accountability, and transparency | §4.9 |
-| Wed, 4/28 | Overflow day/special topics | — |
-| Mon, 5/3 | Overflow day/special topics | — |
-| Wed, 5/5 | Overflow day/special topics | — |
-| Final exam slot | Final exam | — |
-
+| Date            | Subject                                                        | Reading                | Homework              |
+|-----------------|----------------------------------------------------------------|------------------------|-----------------------|
+| Wed, 1/20       | Class introduction, background, linear regression              | §3.1-3.3               | H1 assigned           |
+| Mon, 1/25       | Logistic regression                                            | §3.4-3.7               |                       |
+| Wed, 1/27       | Multilayer perceptrons                                         | §4.1-4.3               | H1 due, H2 assigned   |
+| Mon, 2/1        | Under/overfitting, regularization                              | §4.4-4.6               |                       |
+| Wed, 2/3        | Backpropagation, numerical stability                           | §4.7-4.8               | H2 due, H3 assigned   |
+| Mon, 2/8        | Convolutional neural networks 1                                | §6.1-6.3               |                       |
+| Wed, 2/10       | Convolutional neural networks 2                                | §6.4-6.6               | H3 due                |
+| Mon, 2/15       | Wellness day, no class                                         | —                      |                       |
+| Wed, 2/17       | Batch normalization & residual connections                     | §7.5-7.6               | H4 assigned           |
+| Mon, 2/22       | Sequence models and language                                   | §8.1-8.3               |                       |
+| Wed, 2/24       | Recurrent neural networks 1                                    | §8.4-8.7               | H4 due, H5 assigned   |
+| Mon, 3/1        | Recurrent neural networks 2                                    | §9.1-9.4               |                       |
+| Wed, 3/3        | Midterm Review                                                 | —                      | H5 due                |
+| Mon, 3/8        | Midterm                                                        | —                      |                       |
+| Wed, 3/10       | Sequence-to-sequence learning                                  | §9.5-9.8               | H6 assigned           |
+| Mon, 3/15       | Attention 1                                                    | §10.1-10.4             |                       |
+| Wed, 3/17       | Attention 2                                                    | §10.5-10.7             | H6 due, H7 assigned   |
+| Mon, 3/22       | Gradient descent                                               | §11.1-11.5             |                       |
+| Wed, 3/24       | Adaptive gradient methods                                      | §11.6-11.11            | H7 due, H8 assigned   |
+| Mon, 3/29       | Multi-accelerator training                                     | §12.5-12.7             |                       |
+| Wed, 3/31       | Data augmentation and transfer learning for CV                 | §13.1-13.2             | H8 due, H9 assigned   |
+| Mon, 3/29       | Word vectors                                                   | §14.1-14.7             |                       |
+| Wed, 3/31       | Transfer learning for NLP                                      | §14.8-14.10, 15.6-15.7 | H9 due                |
+| Mon, 4/5        | Wellness day, no class                                         | —                      |                       |
+| Wed, 4/7        | Generative adversarial networks                                | §13.10, 17.1-2         | H9 due, H10 assigned  |
+| Mon, 4/19       | Autoencoders & variational autoencoders                        | —                      |                       |
+| Wed, 4/21       | Deep autoregressive models                                     | —                      | H10 due, H11 assigned |
+| Mon, 4/26       | Semi-supervised and self-supervised learning                   | —                      |                       |
+| Wed, 4/28       | Distribution shift; fairness, accountability, and transparency | §4.9                   | H11 due               |
+| Mon, 5/3        | Overflow day/special topics                                    | —                      |                       |
+| Wed, 5/5        | Final exam review                                              | —                      |                       |
+| Final exam slot | Final exam                                                     | —                      |                       |
 ## Grading
 
-  1. **Homework**, 52 points: There will be 13 homework assignments. Each homework assignment will be assigned on Wednesday and due the following Wednesday. We will skip the assignments that fall over a wellness day. Homework will consist of some combination of math and coding. Each homework is worth 4 points.
-  1. **Midterm**, 18 points: The midterm will take place on 3/8 and will cover all topics discussed before the midterm.
+  1. **Homework**, 55 points: There will be 11 homework assignments. Each homework assignment will be assigned on Wednesday and due the following Wednesday. We will skip the assignments that fall over a wellness day. Homework will consist of some combination of math and coding. Each homework is worth 5 points.
+  1. **Midterm**, 15 points: The midterm will take place on 3/8 and will cover all topics discussed before the midterm.
   1. **Final Exam**, 30 points: The final exam will take place during our scheduled final exam slot and will cover all topics discussed in the class.
 
 ## Late work and the honor code
 
-You can replace your worst homework grade with a 4/4, which effectively excuses you from a single homework.
-Under specical circumstances, I can grant you an extension on a homework, but you must request an extension at least 24 hours before the homework is due.
+You can replace your worst homework grade with a perfect grade (5/5), which effectively excuses you from a single homework.
+I can grant you an extension on a homework due to a life emergency, but you must request an extension at least 24 hours before the homework is due.
 
 All students are expected to follow the guidelines of the [UNC honor code](http://honor.unc.edu).
 In the context of this class, it is particularly important that you cite the source of different ideas, facts, or methods and do not claim someone else's work as your own.
