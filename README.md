@@ -58,7 +58,7 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
 | Mon, 3/29       | Word vectors                                                   | §14.1-14.7             |                       |
 | Wed, 3/31       | Transfer learning for NLP                                      | §14.8-14.10, 15.6-15.7 | H9 due                |
 | Mon, 4/5        | Wellness day, no class                                         | —                      |                       |
-| Wed, 4/7        | Generative adversarial networks                                | §13.10, 17.1-2         | H9 due, H10 assigned  |
+| Wed, 4/7        | Generative adversarial networks                                | §13.10, 17.1-2         | H10 assigned          |
 | Mon, 4/19       | Autoencoders & variational autoencoders                        | —                      |                       |
 | Wed, 4/21       | Deep autoregressive models                                     | —                      | H10 due, H11 assigned |
 | Mon, 4/26       | Semi-supervised and self-supervised learning                   | —                      |                       |
