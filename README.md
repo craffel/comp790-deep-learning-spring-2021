@@ -73,10 +73,15 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
   1. **Midterm**, 15 points: The midterm will take place on 3/8 and will cover all topics discussed before the midterm.
   1. **Final Exam**, 30 points: The final exam will take place during our scheduled final exam slot and will cover all topics discussed in the class.
 
-## Late work and the honor code
+## Late work, collaboration rules, and the honor code
 
 You can replace your worst homework grade with a perfect grade (5/5), which effectively excuses you from a single homework.
 I can grant you an extension on a homework due to a life emergency, but you must request an extension at least 24 hours before the homework is due.
+
+You are welcome to work together with other students on the homework.
+You are also welcome to use any resources you find (online tutorials, textbooks, papers, etc.) to help you complete the homework.
+However, **you must list any collaboration or resources you used to complete each homework on each assignment**.
+If you hand in homework that involved collaboration and/or makes use of content that you did not create and you do not disclose this, you will get a 0 for that homework.
 
 All students are expected to follow the guidelines of the [UNC honor code](http://honor.unc.edu).
 In the context of this class, it is particularly important that you cite the source of different ideas, facts, or methods and do not claim someone else's work as your own.
