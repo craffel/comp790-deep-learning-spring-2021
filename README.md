@@ -2,6 +2,8 @@
 
 Instructor: [Colin Raffel](http://colinraffel.com)
 
+TA: [Yi-Lin Sung](https://louis2889184.github.io/)
+
 Term: Spring 2021
 
 Meeting time: Mondays and Wednesdays, 12:30-1:45pm
