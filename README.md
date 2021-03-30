@@ -56,11 +56,11 @@ All readings refer to corresponding sections in [Dive into Deep Learning](http:/
 | Mon, 3/22       | Attention 2                                                    | §10.5-10.7             |                       |
 | Wed, 3/24       | Gradient descent                                               | §11.1-11.5             | H7 due, H8 assigned   |
 | Mon, 3/29       | Adaptive gradient methods                                      | §11.6-11.11            |                       |
-| Wed, 3/31       | Multi-accelerator training                                     | §12.5-12.7             | H8 due, H9 assigned   |
-| Mon, 3/29       | Data augmentation and transfer learning for CV                 | §13.1-13.2             |                       |
-| Wed, 3/31       | Word vectors                                                   | §14.1-14.7             | H9 due                |
+| Wed, 3/31       | (catchup lecture)                                              | -                      | H8 due                |
 | Mon, 4/5        | Wellness day, no class                                         | —                      |                       |
-| Wed, 4/7        | Transfer learning for NLP                                      | §14.8-14.10, 15.6-15.7 | H10 assigned          |
+| Wed, 4/7        | Data augmentation and transfer learning for CV                 | §13.1-13.2             | H9 assigned           |
+| Wed, 4/12       | Word vectors                                                   | §14.1-14.7             |                       |
+| Wed, 4/14       | Transfer learning for NLP                                      | §14.8-14.10, 15.6-15.7 | H9 due, H10 assigned  |
 | Mon, 4/19       | Generative adversarial networks                                | §13.10, 17.1-2         |                       |
 | Wed, 4/21       | Autoencoders & variational autoencoders                        | —                      | H10 due, H11 assigned |
 | Mon, 4/26       | Deep autoregressive models                                     | —                      |                       |
